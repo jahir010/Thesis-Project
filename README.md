@@ -2,7 +2,7 @@
 
 This script performs traffic flow analysis using YOLOv8, an object-detection method and ByteTrack, a simple yet effective online multi-object tracking method. It uses the supervision package for multiple tasks such as tracking, annotations, etc.
 
-[![Traffic Analysis Result](https://res.cloudinary.com/marcomontalbano/image/upload/v1714279684/video_to_markdown/images/google-drive--1qAjfZProh9qKc30b-uyJSnHXXVPefCpS-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1qAjfZProh9qKc30b-uyJSnHXXVPefCpS/view?usp=drive_link "Traffic Analysis Result") 
+[![traffic analysis result](https://res.cloudinary.com/marcomontalbano/image/upload/v1714281032/video_to_markdown/images/google-drive--1K8WigwNLMFtnNc_2XUzFcRU6A3TI1DYK-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1K8WigwNLMFtnNc_2XUzFcRU6A3TI1DYK/view?usp=drive_link "traffic analysis result")
 
 
 ## 💻 install
