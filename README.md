@@ -26,6 +26,6 @@ This script performs traffic flow analysis using YOLOv8, an object-detection met
     pip install -r requirements.txt
     ```
 
-- download `traffic_analysis.pt` and `traffic_analysis.mov` files from https://drive.google.com/drive/folders/1_Wy1mJvYKZNRDwoXPcwS7ZaHz08Bd_Xz?usp=drive_link
+- download data folder from https://drive.google.com/drive/folders/1_Wy1mJvYKZNRDwoXPcwS7ZaHz08Bd_Xz?usp=drive_link
 
 # Traffic-analysis-with-YOLOv8
