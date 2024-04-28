@@ -10,8 +10,7 @@ This script performs traffic flow analysis using YOLOv8, an object-detection met
 - clone repository and navigate to example directory
 
     ```bash
-    git clone https://github.com/roboflow/supervision.git
-    cd supervision/examples/traffic_analysis
+    git clone https://github.com/jahir010/Traffic-analysis-with-YOLOv8.git
     ```
 
 - setup python environment and activate it [optional]
@@ -27,20 +26,6 @@ This script performs traffic flow analysis using YOLOv8, an object-detection met
     pip install -r requirements.txt
     ```
 
-- download `traffic_analysis.pt` and `traffic_analysis.mov` files
+- download `traffic_analysis.pt` and `traffic_analysis.mov` files from https://drive.google.com/drive/folders/1_Wy1mJvYKZNRDwoXPcwS7ZaHz08Bd_Xz?usp=drive_link
 
-    ```bash
-    ./setup.sh
-    ```
-
-## ⚙️ run
-
-```bash
-python script.py \
---source_weights_path data/traffic_analysis.pt \
---source_video_path data/traffic_analysis.mov \
---confidence_threshold 0.3 \
---iou_threshold 0.5 \
---target_video_path data/traffic_analysis_result.mov
-```
 # Traffic-analysis-with-YOLOv8
